@@ -16,5 +16,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/anthony.ng.720
+
 [linkedin]: https://linkedin.com/in/anthony-ng-891405261/
